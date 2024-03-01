@@ -3,7 +3,7 @@
   <img src="Ayman_Banner.gif" alt="Cover Photo" style="width: 100%;">
 
   <!-- Profile Photo -->
-  <img src="20230616_212947.png" alt="Profile Photo" style="position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); border-radius: 50%; width: 150px; height: 150px;">
+  <img src="20230616_212947.png" alt="Profile Photo" style="position: center; left: 50%; top: 50%; transform: translate(-50%, -50%); border-radius: 50%; width: 100px; height: 100px;">
 </div>
 
 
