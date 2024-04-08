@@ -1,9 +1,9 @@
 <div style="position: relative;">
   <!-- Cover Photo -->
-  <img src="Ayman_Banner.gif" alt="Cover Photo" style="width: 100%;">
-
+  <img src="Ayman_Banner.gif" title="About em0ndev" alt="Cover Photo" style="width: 100%; height:300px">
+<br>
   <!-- Profile Photo -->
-  <img src="20230616_212947.png" alt="Profile Photo" style="position: center; left: 50%; top: 50%; transform: translate(-50%, -50%); border-radius: 50%; width: 100px; height: 100px;">
+  <img src="20230616_212947.png" alt="Profile Photo" title="Profile Photo of Ayman" style="position: center; left: 50%; top: 50%; transform: translate(-50%, -50%); border-radius: 50%; width: 100px; height: 100px;">
 </div>
 
 
@@ -40,5 +40,5 @@
 ![Cover Photo](Forest.jpg)
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/em0ndev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="em0ndev" /></a><a href="https://ko-fi.com/em0ndev"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="em0ndev" /></a></p> <br> <br>
-  <!-- PayPal Logo --><table border="0" cellpadding="10" cellspacing="0" align="center"><tr><td align="center"></td></tr><tr><td align="center"><a href="https://www.paypal.me/em0ndev/" title="Pay with PayPal" onclick="javascript:window.open('https://www.paypal.com/webapps/mpp/paypal-popup','WIPaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=1060, height=700'); return false;"><img src="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_37x23.jpg" border="0" alt="PayPal Logo"></a></td></tr></table><!-- PayPal Logo --><br><br>
+<p><a href="https://www.buymeacoffee.com/em0ndev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="em0ndev" /></a><a href="https://ko-fi.com/em0ndev"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="em0ndev" /></a>
+  <!-- PayPal Logo --><a href="https://www.paypal.me/em0ndev/" title="Pay with PayPal" onclick="javascript:window.open('https://www.paypal.com/webapps/mpp/paypal-popup','WIPaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=1060, height=700'); return false;"><img src="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_37x23.jpg" width=100 height=50 border="0" alt="PayPal Logo"></a><!-- PayPal Logo --></p><br><br>
