@@ -11,7 +11,7 @@
 <h1 align="center">Hi 👋, I'm Ayman 😎</h1>
 <h3 align="center">A passionate professional developer & information security expert from Bangladesh 🇧🇩</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=em0ndev&label=Visitors&color=0000ff&style=flat-square" alt="em0ndev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=em0ndev&label=Visitors&color=0000ff&style=flat-square" alt="aymandevbd" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=em0ndev" alt="em0ndev" /></a> </p>
 
@@ -29,8 +29,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/fd-ayman-ullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fd-ayman-ullah" height="30" width="40" /></a>
-<a href="https://fb.com/fdaymanullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fdaymanullah" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aymanullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fd-ayman-ullah" height="30" width="40" /></a>
+<a href="https://fb.com/aymandevbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fdaymanullah" height="30" width="40" /></a>
 <a href="https://discord.gg/fdaymanullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fdaymanullah" height="30" width="40" /></a>
 </p>
 
