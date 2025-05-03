@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**aymandevbd/aymandevbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Admin changed their website address
 
-Here are some ideas to get you started:
+🔎 *To browse the new website, please follow the link..........* 👇
+<br/>
+<br/>
+<div id="countinue">
+<p align="center"> <a href="https://aymanullah.github.io/index.html"> <img src="https://img.shields.io/badge/🌐%20Visit%20the%20New%20Website%20🔍%20>>>-red?style=for-the-badge" alt="visitors" height="50" width="400"/></a> </p> </div>
+<br/>
+<br/>
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<br/>
+<br/>
+<div id="counter">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aymandevbd&label=TOTAL+WEBSITE+VISITORS&color=brightgreen&style=for-the-badge&abbreviated=true" alt="visitors" /> </p> </div>
+<br/>
+
+<footer><p align="center"><b>Copyright &copy;2025 <a href="https://aymanullah.github.io/index.html"> AYMAN ULLAH</a> All Rights Reserved.</b></p></footer>
+
+
+
